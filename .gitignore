@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+env/
+ENV/
+venv/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Colab temporary files
+*.tmp
+*.bak
+
+# VS Code settings
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python environment files
+*.env
+.env
+
+# MyPy / Pylint cache
+.mypy_cache/
+.pytest_cache/
+
+# Google Drive sync conflict files
+* (Conflicted copy).*
+* (Conflict Copy).*
+
+# Log files
+*.log
+
+# Mac folder attributes
+*.AppleDouble
+.LSOverride
+
+# Jupyter runtime files
+~$*
